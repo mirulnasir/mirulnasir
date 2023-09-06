@@ -1,5 +1,11 @@
 👋 Hey there, fellow code wanderer! I'm Mirul Nasir 🚀 – your friendly neighborhood coding enthusiast with a serious addiction to ☕ and a knack for turning caffeine into JavaScript! When I'm not sipping that magical elixir, you'll find me crafting delightful front-end experiences that make users go "Wow!" 🌟💻
 
+|_ || | ___ _ __ () __| | ___ __ _
+| | | |/ _ | ' \ | |/ |/ _ \ / _ |
+| | | || __/| | | | | | (| | __/| (| |
+|| _|_||| || ||_,_|_| _, |
+|__/
+
 🌈 My world revolves around pixels, brackets, and endless cups of coffee. I'm on a mission to turn caffeine into code, and bugs into features – all with a big smile on my face! 🐜🛠️ Don't be surprised if you catch me doing a victory dance 💃 every time I squash a nasty bug – it's a ritual!
 
 🌱 As a JavaScript sorcerer and front-end artist, I'm all about creating digital wonders that come to life with the flick of a keystroke. From crafting interactive UIs that make users go "Ooh!" to conjuring smooth animations that make them go "Aah!" – I've got the spells you need! ✨🪄
